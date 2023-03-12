@@ -8,4 +8,4 @@ def test_three():
     assert 69 == 69
 
 def test_four():
-    pass
+    assert 3 < 2
