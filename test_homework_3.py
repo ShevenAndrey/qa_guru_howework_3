@@ -3,3 +3,9 @@ def test_first():
 
 def test_two():
     assert 3 > 1
+
+def test_three():
+    assert 10 > 9
+
+def test_four():
+    assert 3 < 2
