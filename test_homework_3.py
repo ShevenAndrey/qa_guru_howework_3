@@ -1,11 +1,11 @@
-def test_first():
+def test_1():
     assert 3 > 1
 
-def test_two():
+def test_2():
     assert 3 > 1
 
-def test_three():
+def test_3():
     assert 69 == 69
 
-def test_four():
+def test_4():
     pass
